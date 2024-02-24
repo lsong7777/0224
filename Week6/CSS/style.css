@@ -1,0 +1,29 @@
+p.hkbu_info
+{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p.hkbu_hist
+{
+    font-family: 'Courier New', Courier, monospace;
+    /*font-size:30px; /*200;*/ /* 18px;*/
+    /*
+    font-weight:normal;
+    font-style: italic;
+    */
+    /*text-decoration: underline; /*underline, overline, line-through*/
+    text-align:right;
+    /*line-height: 1em;
+    letter-spacing: 0em;
+    word-spacing: 0.1em;
+    text-indent:32px;*/
+    /*color:rgb(0, 255, 255);*/
+    /*background:rgb(0, 255, 255);*/
+    /*background:rgba(0, 255, 255, 0.25);
+    /*background:linear-gradient(red,orange);*/
+    /*background:radial-gradient(red,orange);*/
+}
+
+p.hkbu_hist:hover{
+    background-color: red;
+}
